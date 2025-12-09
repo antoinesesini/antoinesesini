@@ -3,7 +3,6 @@
 👯 I’m looking to collaborate on new self-hosting and security open-source projects<br>
 🔗 Visit https://blog.asesini.fr
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antoine-sesini-a77b98202)
 
